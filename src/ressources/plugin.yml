@@ -1,0 +1,9 @@
+name: NeoEarth-Minage
+version: 1.0
+main: fr.neoearth.minage.Main
+author: SenaxZz
+commands:
+  resetworld:
+    permissions: neoearth.minage.resetworld
+    description: Resets the world
+    usage: /resetworld
